@@ -1,4 +1,4 @@
-# Home Automation with Alexa
+# MySQL Integration with Nodered
 
 
 ## ARDUINO CODE and nodered flow
